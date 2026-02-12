@@ -360,7 +360,7 @@ MIT License - see [LICENSE](LICENSE) for details
 
 <div align="center">
 <p><a target="_blank" rel="noopener noreferrer" href="/unobtuse/reactbits-design-assistant-agent/blob/main/logos/gabemadeit-white-logo.svg"><img src="/unobtuse/reactbits-design-assistant-agent/raw/main/logos/gabemadeit-white-logo.svg" alt="GabeMade.it" style="max-width: 100%;"></a></p>
-<p><strong>Built with ❤️ by <a href="https://gabemade.it">GabeMade.it</a></strong></p>
+<p><strong>Made by <a href="https://gabemade.it">GabeMade.it</a> with ❤️</strong></p>
 </div>
 
 ---
