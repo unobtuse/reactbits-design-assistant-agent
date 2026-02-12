@@ -57,7 +57,7 @@ Built-in frameworks for:
 ```bash
 # Install to agents directory
 cd ~/.claude/plugins/YOUR_PLUGIN/agents
-git clone https://github.com/YOUR_USERNAME/reactbits-design-assistant-agent design-assistant
+git clone https://github.com/unobtuse/reactbits-design-assistant-agent design-assistant
 ```
 
 Or add to existing plugin's `agents/` directory.
@@ -67,7 +67,7 @@ Or add to existing plugin's `agents/` directory.
 ```bash
 # Install to agents directory
 cd ~/.openclaw/agents
-git clone https://github.com/YOUR_USERNAME/reactbits-design-assistant-agent reactbits-design-assistant
+git clone https://github.com/unobtuse/reactbits-design-assistant-agent reactbits-design-assistant
 
 # Copy AGENT.md to SOUL.md for OpenClaw
 cd reactbits-design-assistant
@@ -310,7 +310,7 @@ Can be configured to use other models in AGENT.md frontmatter.
 
 ## Companion Projects
 
-- **[ReactBits Frontend Design Skill](https://github.com/YOUR_USERNAME/reactbits-frontend-design-skill)** - Comprehensive skill for Claude Code and OpenClaw
+- **[ReactBits Frontend Design Skill](https://github.com/unobtuse/reactbits-frontend-design-skill)** - Comprehensive skill for Claude Code and OpenClaw
 
 ## Resources
 
@@ -341,8 +341,8 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/reactbits-design-assistant-agent/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/YOUR_USERNAME/reactbits-design-assistant-agent/discussions)
+- **Issues:** [GitHub Issues](https://github.com/unobtuse/reactbits-design-assistant-agent/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/unobtuse/reactbits-design-assistant-agent/discussions)
 - **Discord:** [Join the community](https://discord.gg/reactbits)
 
 ## Changelog

@@ -8,7 +8,7 @@ Thank you for your interest in contributing! This document provides guidelines f
 
 If you find a bug or have a suggestion:
 
-1. Check if the issue already exists in [GitHub Issues](https://github.com/YOUR_USERNAME/reactbits-design-assistant-agent/issues)
+1. Check if the issue already exists in [GitHub Issues](https://github.com/unobtuse/reactbits-design-assistant-agent/issues)
 2. If not, create a new issue with:
    - Clear title and description
    - Example conversation or interaction
@@ -203,7 +203,7 @@ When ReactBits updates:
 
 ## Questions?
 
-- Open a [Discussion](https://github.com/YOUR_USERNAME/reactbits-design-assistant-agent/discussions)
+- Open a [Discussion](https://github.com/unobtuse/reactbits-design-assistant-agent/discussions)
 - Join our [Discord](https://discord.gg/reactbits)
 - Email: [your-email@example.com]
 
